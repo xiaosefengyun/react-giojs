@@ -19,7 +19,6 @@
     "babel-preset-stage-0": "6.24.1",
     "debug": "2.6.9",
     "giojs": "^0.0.14",
-    "react-giojs": "^0.0.4",
     "rollup": "0.52.0",
     "rollup-plugin-babel": "3.0.2",
     "rollup-plugin-commonjs": "8.2.6",
